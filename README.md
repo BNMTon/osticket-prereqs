@@ -44,7 +44,7 @@ Download and install MySQL
 <br />
 
 <p>
-<img src="https://i.imgur.com/vHw28Ef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xYSl0Gy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install osTicket 
